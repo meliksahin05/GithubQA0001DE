@@ -26,13 +26,7 @@ public class Github01 {
         System.out.println(o+p);
         System.out.println("Done codes for version 3");
 
-                //Codes version 4
-
-        int o = 12;
-        int p = 11;
-
-        System.out.println(o+p);
-        System.out.println("Done codes for version 3");
+      
 
 
 
