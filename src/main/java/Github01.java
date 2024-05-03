@@ -44,6 +44,14 @@ public class Github01 {
         System.out.println(o+p);
         System.out.println("Done codes for version 5");
 
+                //Codes version 6
+
+        int t231= 12;
+        int t121 = 11;
+
+        System.out.println(o+p);
+        System.out.println("Done codes for version 6");
+
 
 
 
