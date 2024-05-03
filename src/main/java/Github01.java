@@ -10,6 +10,15 @@ public class Github01 {
         System.out.println(x+y);
         System.out.println("Done codes for version 1");
 
+        //Codes version 2
+
+        int m = 12;
+        int k = 11;
+
+        System.out.println(m+k);
+        System.out.println("Done codes for version 2");
+
+
 
     }
 }
